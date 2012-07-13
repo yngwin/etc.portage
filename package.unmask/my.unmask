@@ -1,0 +1,4 @@
+=sys-apps/portage-2.2*
+media-sound/qsampler
+~app-text/poppler-0.20.1
+=dev-python/autopep8-0.7*

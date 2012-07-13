@@ -1,0 +1,11 @@
+=dev-lang/python-3*
+=x11-libs/gtk+-3*
+gnome-base/gconf
+media-libs/gstreamer
+#>=x11-libs/qt-core-4.8.9999
+=dev-util/eric-5* #depends on python:3
+>=sys-fs/udev-181
+dev-python/PyQt4::qt
+dev-python/sip::qt
+x11-libs/qscintilla::qt
+dev-python/qscintilla-python::qt

@@ -1,0 +1,32 @@
+x11-terms/rxvt-unicode alt-font-width buffer-on-clear secondary-wheel afterimage perl xterm-color 256-color pixbuf xft -vanilla
+app-editors/vim perl python vim-pager
+media-video/vlc fontconfig httpd lua wma-fixed
+sys-apps/man-pages -linguas_zh_CN
+sys-apps/busybox mdev
+net-misc/plowshare javascript perl scripts view-captcha
+media-gfx/imagemagick corefonts perl postscript webp
+media-libs/mesa egl gallium g3dvl gbm gles1 gles2 openvg xa
+sys-libs/zlib minizip
+net-libs/gnutls pkcs11
+net-misc/curl curl_ssl_gnutls curl_ssl_openssl idn ssh ssl
+sys-apps/portage python2 -python3
+sys-devel/gcc graphite -gtk
+media-sound/mpd cdio inotify mms sndfile wavpack zip
+media-gfx/nomacs raw
+dev-libs/boost icu python
+dev-util/boost-build python
+net-libs/rb_libtorrent python
+net-p2p/qbittorrent geoip
+net-irc/quassel -crypt phonon -server -syslog -webkit
+dev-java/swt -webkit
+net-misc/networkmanager -nss
+net-misc/wicd gtk
+app-editors/vim-qt perl python
+media-libs/phonon vlc
+net-misc/curl -curl_ssl_gnutls curl_ssl_openssl
+dev-python/PyQt4 assistant dbus declarative multimedia opengl phonon sql svg webkit xmlpatterns
+app-i18n/fcitx gtk introspection lua
+app-text/poppler cjk
+net-im/qutim crypt dbus hunspell jabber kinetic otr phonon purple qml -sdl ssl -telepathy -webkit xscreensaver
+media-libs/chromaprint tools
+app-portage/eix optimization strong-optimization
