@@ -17,7 +17,7 @@ dev-libs/boost icu python
 dev-util/boost-build python
 net-libs/rb_libtorrent python
 net-p2p/qbittorrent geoip
-net-irc/quassel -crypt phonon -server -syslog -webkit
+net-irc/quassel -crypt phonon server -syslog -webkit
 dev-java/swt -webkit
 net-misc/networkmanager -nss
 net-misc/wicd gtk
@@ -30,3 +30,8 @@ app-text/poppler cjk
 net-im/qutim crypt dbus hunspell jabber kinetic otr phonon purple qml -sdl ssl -telepathy -webkit xscreensaver
 media-libs/chromaprint tools
 app-portage/eix optimization strong-optimization
+app-emulation/qemu-kvm -bluetooth fdt python vde
+app-i18n/fcitx-configtool gtk -gtk3
+x11-wm/razorqt lightdm policykit
+x11-libs/cairo -qt4
+x11-base/xorg-server kdrive
