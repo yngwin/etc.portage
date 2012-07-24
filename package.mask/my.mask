@@ -2,9 +2,8 @@
 =x11-libs/gtk+-3*
 gnome-base/gconf
 media-libs/gstreamer
-#>=x11-libs/qt-core-4.8.9999
 =dev-util/eric-5* #depends on python:3
->=sys-fs/udev-181
+>=sys-fs/udev-181 #merge with systemd codebase
 dev-python/PyQt4::qt
 dev-python/sip::qt
 x11-libs/qscintilla::qt
