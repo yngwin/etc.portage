@@ -15,6 +15,7 @@ media-libs/chromaprint tools
 media-libs/mesa egl gallium g3dvl gbm gles1 gles2 openvg xa
 media-libs/phonon vlc
 media-sound/mpd cdio inotify mms sndfile wavpack zip
+media-sound/ncmpcpp clock
 media-video/vlc fontconfig httpd lua wma-fixed
 net-im/qutim crypt dbus hunspell jabber kinetic otr phonon purple qml -sdl ssl -telepathy -webkit xscreensaver
 net-irc/quassel -crypt phonon server -syslog -webkit
@@ -33,4 +34,6 @@ sys-libs/zlib minizip
 x11-base/xorg-server kdrive
 x11-libs/cairo -qt4
 x11-terms/rxvt-unicode alt-font-width buffer-on-clear secondary-wheel afterimage perl xterm-color 256-color pixbuf xft -vanilla
+x11-themes/gentoo-artwork kde offensive
+x11-wm/openbox imlib python
 x11-wm/razorqt lightdm policykit
