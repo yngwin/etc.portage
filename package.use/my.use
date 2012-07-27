@@ -12,7 +12,7 @@ dev-util/boost-build python
 media-gfx/imagemagick corefonts perl postscript webp
 media-gfx/nomacs raw
 media-libs/chromaprint tools
-media-libs/mesa egl gallium g3dvl gbm gles1 gles2 openvg xa
+media-libs/mesa egl gallium g3dvl gbm gles1 gles2 openvg xa -xorg
 media-libs/phonon vlc
 media-sound/mpd cdio inotify mms sndfile wavpack zip
 media-sound/ncmpcpp clock
