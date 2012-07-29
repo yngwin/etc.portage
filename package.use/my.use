@@ -9,9 +9,12 @@ dev-java/swt -webkit
 dev-libs/boost icu python
 dev-python/PyQt4 assistant dbus declarative multimedia opengl phonon sql svg webkit xmlpatterns
 dev-util/boost-build python
+gnome-base/librsvg gtk
+media-gfx/gimp -webkit python smp wmf xpm
 media-gfx/imagemagick corefonts perl postscript webp
 media-gfx/nomacs raw
 media-libs/chromaprint tools
+media-libs/gegl lua
 media-libs/mesa egl gallium g3dvl gbm gles1 gles2 openvg xa -xorg
 media-libs/phonon vlc
 media-sound/mpd cdio inotify mms sndfile wavpack zip
