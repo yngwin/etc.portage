@@ -14,6 +14,7 @@ media-gfx/gimp -webkit python smp wmf xpm
 media-gfx/imagemagick corefonts perl postscript webp
 media-gfx/nomacs raw
 media-libs/chromaprint tools
+media-libs/freetype infinality
 media-libs/gegl lua
 media-libs/mesa egl gallium g3dvl gbm gles1 gles2 openvg xa -xorg
 media-libs/phonon vlc
