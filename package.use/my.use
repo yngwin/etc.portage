@@ -18,10 +18,13 @@ media-libs/freetype infinality
 media-libs/gegl lua
 media-libs/mesa egl gallium g3dvl gbm gles1 gles2 openvg xa -xorg
 media-libs/phonon vlc
+media-sound/gpodder -bluetooth -webkit
 media-sound/mpd cdio inotify mms sndfile wavpack zip
 media-sound/ncmpcpp clock
+media-video/mplayer2 postproc
 media-video/vlc fontconfig httpd lua wma-fixed
 net-im/qutim crypt dbus hunspell jabber kinetic otr phonon purple qml -sdl ssl -telepathy -webkit xscreensaver
+net-irc/hexchat fastscroll gtk -spell
 net-irc/quassel -crypt phonon server -syslog -webkit
 net-libs/gnutls pkcs11
 net-libs/rb_libtorrent python
