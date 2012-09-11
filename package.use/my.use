@@ -1,3 +1,4 @@
+app-arch/p7zip rar -wxwidgets
 app-editors/vim perl python vim-pager
 app-editors/vim-qt perl python
 app-emulation/qemu-kvm -bluetooth fdt python vde
