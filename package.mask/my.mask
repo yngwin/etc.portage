@@ -1,33 +1,4 @@
-=dev-lang/python-3*
 =x11-libs/gtk+-3*
 gnome-base/gconf
 media-libs/gstreamer
-=dev-util/eric-5* #depends on python:3
->=sys-fs/udev-181 #merge with systemd codebase
-dev-python/PyQt4::qt
-dev-python/sip::qt
-x11-libs/qscintilla::qt
-dev-python/qscintilla-python::qt
 =x11-base/xorg-server-1.12.99*
-
-# Qt5 mask
-x11-libs/qt-core:5
-x11-libs/qt-declarative:5
-x11-libs/qt-gui:5
-x11-libs/qt-multimedia:5
-x11-libs/qt-network:5
-x11-libs/qt-sql:5
-x11-libs/qt-test:5
-x11-libs/qt-webkit:5
-x11-libs/qt3d:5
-x11-libs/qt-dbus:5
-x11-libs/qt-jsbackend:5
-x11-libs/qt-location:5
-x11-libs/qt-opengl:5
-x11-libs/qt-printsupport:5
-x11-libs/qt-script:5
-x11-libs/qt-svg:5
-x11-libs/qt-widgets:5
-x11-libs/qt-xml:5
-x11-libs/qt-xmlpatterns:5
-

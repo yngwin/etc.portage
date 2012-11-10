@@ -3,7 +3,7 @@ app-editors/vim perl python vim-pager
 app-editors/vim-qt perl python
 # move app-emulation/qemu-kvm app-emulation/qemu
 app-emulation/qemu -bluetooth fdt python vde
-app-i18n/fcitx gtk introspection lua
+app-i18n/fcitx gtk icu introspection lua
 app-i18n/fcitx-configtool gtk -gtk3
 app-portage/eix optimization strong-optimization
 app-text/poppler cjk
@@ -45,3 +45,6 @@ x11-libs/cairo -qt4
 x11-terms/rxvt-unicode alt-font-width buffer-on-clear secondary-wheel afterimage perl xterm-color 256-color pixbuf xft -vanilla
 x11-themes/gentoo-artwork kde offensive
 x11-wm/openbox imlib python
+media-sound/cantata phonon replaygain webkit
+dev-python/docutils glep
+app-doc/pms html

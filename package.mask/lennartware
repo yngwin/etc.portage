@@ -1,0 +1,6 @@
+media-sound/pulseaudio
+net-dns/avahi
+sys-apps/ifplugd
+sys-apps/systemd
+>=sys-fs/udev-181 # merge with systemd codebase
+>=sys-fs/udisks-2.0.0 # depends on udev >=180

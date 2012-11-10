@@ -1,0 +1,4 @@
+dev-python/PyQt4::qt
+dev-python/sip::qt
+x11-libs/qscintilla::qt
+dev-python/qscintilla-python::qt

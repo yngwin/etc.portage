@@ -1,0 +1,2 @@
+=dev-lang/python-3*
+=dev-util/eric-5* #depends on python:3
