@@ -3,5 +3,6 @@ media-libs/phonon-vlc **
 x11-terms/qterminal **
 x11-libs/qtermwidget **
 net-irc/quassel **
-www-apps/nikola **
+#www-apps/nikola **
 app-editors/vim-qt **
+x11-misc/sddm **

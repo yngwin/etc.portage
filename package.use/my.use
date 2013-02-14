@@ -1,7 +1,6 @@
 app-arch/p7zip rar -wxwidgets
 app-editors/vim perl python vim-pager
 app-editors/vim-qt perl python
-# move app-emulation/qemu-kvm app-emulation/qemu
 app-emulation/qemu -bluetooth fdt python vde
 app-i18n/fcitx gtk icu introspection lua
 app-i18n/fcitx-configtool gtk -gtk3
@@ -9,7 +8,7 @@ app-portage/eix optimization strong-optimization
 app-text/poppler cjk
 dev-java/swt -webkit
 dev-libs/boost icu python
-dev-python/PyQt4 assistant dbus declarative multimedia opengl phonon sql svg webkit xmlpatterns
+dev-python/PyQt4 assistant dbus declarative help multimedia opengl phonon sql svg webkit xmlpatterns
 dev-util/boost-build python
 gnome-base/librsvg gtk
 media-gfx/gimp -webkit python smp wmf xpm
@@ -23,7 +22,7 @@ media-libs/phonon vlc
 media-sound/gpodder -bluetooth -webkit
 media-sound/mpd cdio inotify mms sndfile wavpack zip
 media-sound/ncmpcpp clock
-media-video/mplayer2 postproc
+media-video/mplayer2 mmxext postproc
 media-video/vlc fontconfig httpd lua wma-fixed
 net-im/qutim crypt dbus hunspell jabber kinetic otr phonon purple qml -sdl ssl -telepathy -webkit xscreensaver
 net-irc/hexchat fastscroll gtk -spell
@@ -41,10 +40,14 @@ sys-apps/portage python2 -python3
 sys-devel/gcc graphite -gtk
 sys-libs/zlib minizip
 x11-base/xorg-server kdrive
-x11-libs/cairo -qt4
 x11-terms/rxvt-unicode alt-font-width buffer-on-clear secondary-wheel afterimage perl xterm-color 256-color pixbuf xft -vanilla
 x11-themes/gentoo-artwork kde offensive
 x11-wm/openbox imlib python
 media-sound/cantata phonon replaygain webkit
 dev-python/docutils glep
 app-doc/pms html
+>=x11-libs/libdrm-2.4.40 libkms
+media-gfx/gimp -udev
+x11-misc/lightdm razor
+app-i18n/ibus deprecated gtk -gtk3 -dconf -gconf introspection -vala
+app-office/abiword openxml ots
