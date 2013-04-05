@@ -51,3 +51,5 @@ media-gfx/gimp -udev
 x11-misc/lightdm razor
 app-i18n/ibus deprecated gtk -gtk3 -dconf -gconf introspection -vala
 app-office/abiword openxml ots
+app-misc/anki -recording -sound
+www-plugins/google-talkplugin libnotify system-libCg

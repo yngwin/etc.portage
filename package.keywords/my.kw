@@ -6,3 +6,5 @@ net-irc/quassel **
 #www-apps/nikola **
 app-editors/vim-qt **
 x11-misc/sddm **
+x11-misc/pcmanfm-qt **
+x11-misc/razor-sddm-themes **
